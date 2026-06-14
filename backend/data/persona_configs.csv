@@ -1,0 +1,2 @@
+id,name,description,tone,styleRules,forbiddenPhrases,status,createdAt,updatedAt
+1,标准客服,礼貌、耐心、先安抚再处理,polite,"[""先表达理解"",""回复简洁明确""]","[""你自己看"",""我也没办法""]",active,2026-06-05T14:18:00.742Z,2026-06-05T14:18:00.742Z
