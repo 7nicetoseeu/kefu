@@ -20,10 +20,50 @@
 - 回复测试：基于已启用的正式库和人设生成客服推荐回复，并展示命中依据和风险提示。
 - Chrome 扩展：在浏览器侧边栏中手动生成推荐回复、润色草稿、检索知识库，支持选中/复制/填入话术。
 
+## 界面预览
+
+### 管理后台首页
+
+![管理后台首页](docs/images/popu前端页面.png)
+
+### AI 调教
+
+![AI 调教输入](docs/images/ai调教1.png)
+
+![AI 调教结果](docs/images/ai调教2.png)
+
+### 人工审核
+
+![人工审核](docs/images/人工审核.png)
+
+### 正式库管理
+
+![正式库管理](docs/images/正式库管理.png)
+
+### 人设管理
+
+![人设管理](docs/images/人设管理.png)
+
+### AI 回复测试
+
+![回复测试输入](docs/images/回复测试1.png)
+
+![回复测试结果](docs/images/回复测试2.png)
+
+![回复测试依据](docs/images/回复测试3.png)
+
+### 知识库导入与检索
+
+![知识库导入](docs/images/知识库导入.png)
+
+![知识库检索](docs/images/知识库检索.png)
+
 ## 目录结构
 
 ```text
 ai-customer-agent/
+  docs/
+    images/
   backend/
     data/
       knowledge_base_items.csv
